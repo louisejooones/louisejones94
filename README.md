@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louisejones94
 - 👀 I’m interested in full-stack web development & doing good in the world
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: louisejones94@live.co.uk
 
 <!---
